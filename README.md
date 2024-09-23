@@ -8,12 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=beatz-steph" alt="beatz-steph" /></a> </p>
 
-- 🔭 I’m currently working on **KLIP - Simple dapp landing page using some of apples iphone 15 specfication pages
-animation styles - Start Oct 12, 2023**
 
 - 🌱 I’m currently learning **A couple of courses on Frontend masters for scaling frontend web applications**
 
-- 👯 I’m looking to collaborate on **SPLIT - Simple dapp for split payment amongst user - Start Nov 24, 2023**
+- 👯 I’m looking to collaborate on **SPLIT - Simple dapp for split payment amongst user - Start Nov 1, 2024**
 
 - 👨‍💻 All of my projects are available at
 [https://bloom-force-329.notion.site/Babaniyi-Akinjiola-s-portfolio-f14af95dda6a42d98ca878236fb1d139](https://bloom-force-329.notion.site/Babaniyi-Akinjiola-s-portfolio-f14af95dda6a42d98ca878236fb1d139)
