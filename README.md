@@ -11,10 +11,7 @@
 
 - 🌱 I’m currently learning **A couple of courses on Frontend masters for scaling frontend web applications**
 
-- 👯 I’m looking to collaborate on **SPLIT - Simple dapp for split payment amongst user - Start Nov 1, 2024**
-
-- 👨‍💻 All of my projects are available at
-[https://bloom-force-329.notion.site/Babaniyi-Akinjiola-s-portfolio-f14af95dda6a42d98ca878236fb1d139](https://bloom-force-329.notion.site/Babaniyi-Akinjiola-s-portfolio-f14af95dda6a42d98ca878236fb1d139)
+- 👨‍💻 My website at https://babaniyi-akinjiola.vercel.app
 
 - 💬 Ask me about **React, Redux, Next js, Nest Js**
 
